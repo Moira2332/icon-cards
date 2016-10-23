@@ -22,7 +22,15 @@ html {
   width: 100%;
 }
 
-a {
+.card {
   text-decoration: none;
   color: #000;
+  border-radius: 2em;
+  border-color: #333;
+  background-color: #fff;
+}
+
+.btn:hover {
+  background-color: #e6e6e6;
+  color: #333;
 }
